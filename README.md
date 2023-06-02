@@ -3,8 +3,6 @@
 My name is **Alyx**, I'm a passionate **Front-end Developer** 👨‍💻.<br> 
 I’m currently open for a new job opportunity, so feel free to reach out! 😉<br>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 ## About Me 
 
 🎨 I enjoy creating aesthetically pleasing interfaces<br>
