@@ -25,7 +25,13 @@ I’m currently open for a new job opportunity, so feel free to reach out! 😉<
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-1B222D?logo=prisma&logoColor=white&style=flat-square)](https://www.prisma.io/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)](https://graphql.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)](https://jestjs.io/)
+[![React Testing Library](https://img.shields.io/badge/React_Testing_Library-FA8072?logo=testinglibrary&logoColor=white&style=flat-square)](https://testing-library.com/docs/react-testing-library/intro/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)](https://www.cypress.io/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 ## Tools
@@ -49,13 +55,9 @@ I’m currently open for a new job opportunity, so feel free to reach out! 😉<
 
 
 ## Currently learning 
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)](https://graphql.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
+
 [![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&style=flat-square)](https://strapi.io/)
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)](https://jestjs.io/)
-[![React Testing Library](https://img.shields.io/badge/React_Testing_Library-FA8072?logo=testinglibrary&logoColor=white&style=flat-square)](https://testing-library.com/docs/react-testing-library/intro/)
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)](https://www.cypress.io/)
 
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
