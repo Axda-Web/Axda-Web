@@ -64,4 +64,5 @@ I’m currently open for a new job opportunity, so feel free to reach out! 😉<
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/alyx-darenne/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:darenne.alyx@gmail.com)
+[![Portfolio](https://axda.fr)]((https://axda.fr))
 
