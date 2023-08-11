@@ -2,6 +2,7 @@
 
 My name is **Alyx**, I'm a passionate **Front-end Developer** 👨‍💻.<br> 
 I’m currently open for a new job opportunity, so feel free to reach out! 😉<br>
+Check my [Portfolio](https://axda.fr) 🔥
 
 ## About Me 
 
