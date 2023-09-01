@@ -23,6 +23,7 @@ Check my [Portfolio](https://axda.fr) 🔥
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![REST API](https://img.shields.io/badge/REST_API-008080?logo=rest&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)](https://graphql.org/)
