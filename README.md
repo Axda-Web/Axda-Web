@@ -27,7 +27,6 @@ Check my [Portfolio](https://axda.fr) 🔥
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![REST API](https://img.shields.io/badge/REST_API-008080?logo=rest&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)](https://graphql.org/)
-[![Sanity.io](https://cdn.sanity.io/images/logo.png)](https://www.sanity.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-1B222D?logo=prisma&logoColor=white&style=flat-square)](https://www.prisma.io/)
