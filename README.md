@@ -27,6 +27,7 @@ Check my [Portfolio](https://axda.fr) 🔥
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![REST API](https://img.shields.io/badge/REST_API-008080?logo=rest&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)](https://graphql.org/)
+[![Sanity](https://img.shields.io/badge/Sanity.io-333333?style=flat-square)](https://www.sanity.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-1B222D?logo=prisma&logoColor=white&style=flat-square)](https://www.prisma.io/)
@@ -35,7 +36,6 @@ Check my [Portfolio](https://axda.fr) 🔥
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)](https://jestjs.io/)
 [![React Testing Library](https://img.shields.io/badge/React_Testing_Library-FA8072?logo=testinglibrary&logoColor=white&style=flat-square)](https://testing-library.com/docs/react-testing-library/intro/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)](https://www.cypress.io/)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 ## Tools
 
@@ -48,6 +48,7 @@ Check my [Portfolio](https://axda.fr) 🔥
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)](https://figma.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)](https://www.atlassian.com/software/jira)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.google.com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-223E6D?style=flat-square&logo=chatbot&logoColor=white)](https://openai.com/)
