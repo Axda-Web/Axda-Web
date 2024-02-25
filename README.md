@@ -1,7 +1,7 @@
 # Hi There, Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 My name is **Alyx**, I'm a passionate **Front-end Developer** 👨‍💻.<br> 
-I’m currently open for a new job opportunity, so feel free to reach out! 😉<br>
+<!-- I’m currently open for a new job opportunity, so feel free to reach out! 😉<br> -->
 Check my [Portfolio](https://axda.fr) 🔥
 
 ## About Me 
